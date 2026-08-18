@@ -35,3 +35,4 @@
   <summary>click for hidden contents</summary>
   hidden contents goes here...
 </details>
+:fire:
