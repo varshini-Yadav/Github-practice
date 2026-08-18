@@ -25,5 +25,6 @@
 |xxx |yyy|    zzz|<br>
 |mmm |onn|    ooo|<br>
 <hr>
-[git-hub] ("https://github.com" "click title")
+[git-hub] ("https://github.com" "click title") <br>
 <mark>This is an example for highlighting text</mark>
+<a href="www.google.com">Click here to go to google</a>
