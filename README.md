@@ -26,5 +26,10 @@
 |mmm |onn|    ooo|<br>
 <hr>
 [git-hub] ("https://github.com" "click title") <br>
-<mark>This is an example for highlighting text</mark>
-<a href="www.google.com">Click here to go to google</a>
+<mark>This is an example for highlighting text</mark> <br>
+<a href="www.google.com">Click here to go to google</a> <br>
+<b>creating dropdown</b>
+<details>
+  <summary>click for hidden contents</summary>
+  hidden contents goes here...
+</details>
