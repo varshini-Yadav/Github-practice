@@ -21,9 +21,9 @@
 <hr>
 [!cat image(https://i.pinimg.com/originals/18/4b/97/184b973611e8456b4d6e384795047123.jpg)]
 <hr>
-|Name|Age|Qualify|<br>
-|xxx |yyy|    zzz|<br>
-|mmm |onn|    ooo|<br>
+| Name | Age | Qualify|
+| xxx |  yyy |  zzz   |
+| mmm |  onn |  ooo   |
 <hr>
 [git-hub] ("https://github.com" "click title") <br>
 <mark>This is an example for highlighting text</mark> <br>
