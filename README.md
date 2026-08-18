@@ -18,3 +18,5 @@
 -[] sing<br>
 -[] Dance<br>
 -[] storytelling<br>
+<hr>
+[!cat image(https://i.pinimg.com/originals/18/4b/97/184b973611e8456b4d6e384795047123.jpg)]
