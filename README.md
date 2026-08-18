@@ -19,7 +19,7 @@
 -[ ] Dance<br>
 -[x] storytelling<br>
 <hr>
-[!cat image(https://i.pinimg.com/originals/18/4b/97/184b973611e8456b4d6e384795047123.jpg)]
+[image(https://img.magnific.com/free-vector/cute-ghost-with-love-heart-cartoon-vector-icon-illustration-people-holiday-icon-isolated-flat-vector_138676-12633.jpg?semt=ais_test_b&w=740&q=80)]
 <hr>
 
 | Name | Age  | Qualify |
